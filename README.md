@@ -13,7 +13,7 @@
  -  Fluent in English: written & spoken
 
 ### You can find me also on this platforms: 
-- [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png" align="left" alt="html5" width="30px"/>][facebook][<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" align="left" alt="html5" width="30px"/>][instagram]
+- [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png" align="left" alt="html5" width="30px"/>][facebook][<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" align="left" alt="html5" width="30px"/>][instagram][<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" align="left" alt="html5" width="30px"/>][linkedin]
 <!---
 mateozupanjac/mateozupanjac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -22,3 +22,4 @@ You can click the Preview link to take a look at your changes.
 [github]: https://github.com/
 [facebook]: https://www.facebook.com/mateo.zupanjac/
 [instagram]: https://www.instagram.com/frka.panika/
+[linkedin]: https://www.linkedin.com/in/mateo-%C5%BEupanjac-a329a3113/
