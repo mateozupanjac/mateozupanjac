@@ -1,5 +1,5 @@
  # Hello World! :earth_africa:
-:arrow_right:  My name is Mateo, I'm 31 years old, born in Zagreb, Croatia :croatia:
+:arrow_right:  My name is Mateo, I'm 32 years old, born in Zagreb, Croatia :croatia:
 
 :arrow_right:  I'm a front-end developer who strives on creating amazing and modern web & mobile applications :100:
 
