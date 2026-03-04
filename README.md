@@ -1,23 +1,90 @@
- # Hello World! :earth_africa:
-:arrow_right:  My name is Mateo, I'm 32 years old, born in Zagreb, Croatia :croatia:
+<div align="center">                                                                                                                                                                                                                                                                                                                                                    
+   
+  <h1>Hey, I'm Mateo 👋</h1>                                                                                                                                                                                                                                                                                                                                              
+                                                            
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI-Powered+Engineer;Building+Modern+Web+Apps" alt="Typing SVG" />
+  </a>
 
-:arrow_right:  I'm a front-end developer who loves creating amazing and modern web applications :100:
+  <br/>
+  <em>Zagreb, Croatia 🇭🇷 · Crafting intelligent, production-grade web applications</em>
 
+  </div>
 
-### Technologies I know:  
-- [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" alt="html5" width="35px"/>][github][<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" alt="html5" width="35px"/>][github][<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" alt="html5" width="35px"/>][github][<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" align="left" alt="html5" width="30px"/>][github][<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" alt="html5" width="35px"/>][github][<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" align="left" alt="html5" width="35px"/>][github][<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" align="left" alt="html5" width="35px"/>][github][<img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" align="left" alt="html5" width="35px"/>][github][<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" alt="hmtl5" width="35px"/>][github][<img src="https://avatars.githubusercontent.com/u/30317862?s=80&v=4" align="left" alt="tailwindcss" width="35px" />][github]
+  ---
 
+  ## About Me
 
+  I'm a full-stack developer with a strong frontend foundation, building modern web applications powered by cutting-edge technologies. I specialize in integrating AI and LLMs into real-world products — from React/Vue frontends to backend APIs — and I'm passionate about delivering fast, scalable, and intelligent digital experiences.
 
-### More about me:
- -  Fluent in English: written & spoken
+  - 🧠 &nbsp;Experienced with AI integration using **Claude (Anthropic)** and **OpenAI** in production apps
+  - 🛠️  &nbsp;Building full-stack products with **React**, **Vue**, **Node.js**, and **TypeScript**
+  - 🌍 &nbsp;Based in **Zagreb, Croatia** — working globally
+  - 💡 &nbsp;Fluent in English · written & spoken
 
-### You can find me also on this platforms: 
-- [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png" align="left" alt="html5" width="30px"/>][facebook][<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" align="left" alt="html5" width="30px"/>][instagram][<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" align="left" alt="html5" width="30px"/>][linkedin]
-<!---
-mateozupanjac/mateozupanjac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ---
 
-[facebook]: https://www.facebook.com/mateo.zupanjac/
-[linkedin]: [https://www.linkedin.com/in/mateo-%C5%BEupanjac-a329a3113/](https://www.linkedin.com/in/mateo-zupanjac/)
+  ## Tech Stack
+
+  **Frontend**
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+  **Backend & Cloud**
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+  **AI & LLMs**
+
+  ![Anthropic](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+  **Mobile**
+
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+  **Tools**
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+  ---
+
+  ## GitHub Stats
+
+  <div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mateozupanjac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateozupanjac&layout=compact&theme=tokyonight&hide_border=true" />
+
+  </div>
+
+  <div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mateozupanjac&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+  </div>
+
+  <div align="center">
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mateozupanjac&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+  </div>
+
+  ---
+
+  ## Connect
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-zupanjac/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mateo.zupanjac/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+
