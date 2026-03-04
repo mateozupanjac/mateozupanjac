@@ -7,7 +7,7 @@
   </a>
 
   <br/>
-  <em>Zagreb, Croatia 🇭🇷 · Crafting intelligent, production-grade web applications</em>
+  <em>Karlovac, Croatia 🇭🇷 · Crafting intelligent, production-grade web applications</em>
 
   </div>
 
@@ -19,7 +19,7 @@
 
   - 🧠 &nbsp;Experienced with AI integration using **Claude (Anthropic)** and **OpenAI** in production apps
   - 🛠️  &nbsp;Building full-stack products with **React**, **Vue**, **Node.js**, and **TypeScript**
-  - 🌍 &nbsp;Based in **Zagreb, Croatia** — working globally
+  - 🌍 &nbsp;Based in **Karlovac, Croatia** — working globally
   - 💡 &nbsp;Fluent in English · written & spoken
 
   ---
